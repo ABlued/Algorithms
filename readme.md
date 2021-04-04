@@ -13,6 +13,7 @@
     + main1.js : (순환의 개념과 기본 예제1)
     + main2.js : (순환의 개념과 기본 예제2)
     + main3.js : (순환 함수 응용 : 미로 찾기)
+    + main4.js : (순환 함수 응용 : Counting Cells in a Blob)
 + 코딩테스트
     + 기본문제풀이
         + 삼각형판별하기.js
