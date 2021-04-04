@@ -21,3 +21,8 @@
         + 1부터N까지합출력하기.js
         + 최솟값구하기.js
         + 홀수.js
+        + 10부제.js
+        + 일곱난쟁이.js
+        + ATO.js (A를 #으로)
+        + findChar.js (문자 찾기)
+        + FindUppercaseCharacters.js(대문자 찾기)
