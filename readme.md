@@ -14,6 +14,8 @@
     + main2.js : (순환의 개념과 기본 예제2)
     + main3.js : (순환 함수 응용 : 미로 찾기)
     + main4.js : (순환 함수 응용 : Counting Cells in a Blob)
++ 2.정렬
+    + main1.js : (기본적인 정렬 알고리즘)
 + 코딩테스트
     + 기본문제풀이
         + 삼각형판별하기.js
@@ -27,3 +29,6 @@
         + ATO.js (A를 #으로)
         + findChar.js (문자 찾기)
         + FindUppercaseCharacters.js(대문자 찾기)
+        + 대문자로통일.js
+        + 대소문자변환.js
+        + 가장긴문자열.js
